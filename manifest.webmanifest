@@ -1,0 +1,1 @@
+{"name":"QRISKu","short_name":"QRISKu","description":"Aplikasi QRISKu untuk menerima pembayaran","start_url":"/qrisku/","display":"standalone","background_color":"#ffffff","theme_color":"#0f172a","lang":"en","scope":"/qrisku/","icons":[{"src":"icon.svg","sizes":"192x192 512x512","type":"image/svg+xml","purpose":"any maskable"}]}
